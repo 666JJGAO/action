@@ -1,0 +1,17 @@
+ctranslate2
+ffmpeg-python==0.2.0
+gradio==3.23.0
+yt-dlp
+json5
+more_itertools
+pyaudio
+mediapipe
+opencv-python==4.1.2.30
+opencv-contrib-python==4.1.2.30
+pyrealsense2
+
+playsound
+scikit-learn
+rospkg
+serial
+
